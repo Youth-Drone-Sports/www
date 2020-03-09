@@ -4,10 +4,15 @@ sidebar:
   entries: []
 sections:
   - type: intro
-    title: Hyperspace
-    subtitle: |-
-      Cras aliquam amet adipiscing nibh faucibus suscipit ut Parturient  
-      col accumsan est arcu donec sed Eleifend Integer.
+    title: YDSC
+    subtitle: >-
+      Following the success of our[first Minnesota State High School Drone
+      Racing
+      Tournament](http://www.startribune.com/game-of-drones-is-minnesota-high-school-tourney-first/510122532/?fbclid=IwAR1RCjHSdAxdIOHPQPGFUufWWdS4Na0LghAH8pYBsYGB5idJDeJPlpn73os&refresh=true#1)event
+      in May 2019 which featured just two (2) teams, our new **Minnesota Youth
+      Drone Sports Championships**for high schools and middle schools has
+      rocketed to TWENTY (20) teams competing in our Spring 2020 season through
+      May. Wanna join them this Fall?
     section_id: intro
     background_style: style1
     actions:
