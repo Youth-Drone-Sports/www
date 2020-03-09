@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Youth Drone Sports Championships
 sidebar:
   entries:
     - title: Welcome
