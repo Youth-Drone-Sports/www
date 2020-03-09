@@ -1,13 +1,7 @@
 ---
 title: Youth Drone Sports Championships
 sidebar:
-  entries:
-    - title: Welcome
-      url: '#intro'
-      is_primary: true
-    - title: Who we are
-      url: '#one'
-      is_primary: false
+  entries: []
 sections:
   - type: intro
     title: Hyperspace
