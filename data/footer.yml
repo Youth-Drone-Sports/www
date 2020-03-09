@@ -1,4 +1,7 @@
 landing_style: alt
 alt_style: style1-alt
-copyright: '&copy; Hydra FPV. All rights reserved.'
-links: []
+copyright: '&copy; Youth Drone Sports Championships. All rights reserved.'
+links:
+  - new_window: true
+    text: Hydra FPV
+    url: 'https://www.hydrafpv.com'
